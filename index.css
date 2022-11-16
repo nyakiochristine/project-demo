@@ -30,9 +30,9 @@ html::-webkit-scrollbar-track {
 }
 
 html::-webkit-scrollbar-thumb {
-    background: var(--main-color);
+    background:#fe5b3d;
     border-radius: 5rem;
-    border: 2px solid var(--main-color);
+    border: 2px solid  #fe5b3d;
 
 }
 section{
@@ -51,7 +51,7 @@ header{
     padding: 15px 100px;
 }
 .logo img{
-    width: 40px;
+    width: 20px;
 }
 .navbar{
     display: flex;
@@ -63,14 +63,14 @@ header{
 .navbar a{
     font-size: 1rem;
     padding: 10px 20px;
-    color: var(--text-color);
+    color: #444;
     font-weight: 500;
 }
 .navbar a ::after{
     content: '';
     width:0;
     height: 3px;
-    background: var(--gradient);
+    background:#fe5b3d,#ffac38 ;
     position: absolute;
     left: 0;
     bottom: -4px;
@@ -93,15 +93,22 @@ header{
     padding: 10px 200px;
     color: var(--text-color);
     font-weight: 500;
+    border-radius: 7px;
+    
 }
 .header-btn .sign-in{
     background: #474fa0;
     color: #FFF;
-    border-radius: 10rem;
+    height:20px;
+    width:50px;
+    border-radius: 7px;
 
 }
 .header-btn .sign-up{
     background: var(--main-color);
+    border-radius: 10px;
+
+
 }
 
 .home{
@@ -115,6 +122,7 @@ header{
     display: grid;
     align-items: center;
     grid-template-columns: repeat(2,1fr);
+    display: flex;
 
 }
 .text h1{
@@ -245,19 +253,18 @@ header{
 .services-container{
     display: grid;
     grid-template-columns: repeat(auto, minmax(300px, auto));
-    gap: 1 rem;
+    gap: 1rem;
     margin-top: 2rem;
 
 }
 .services-container .box{
-    padding: 10px;
     border-radius: 1rem;
     box-shadow: 1px 4px 41px rgba(0, 0, 0, 0.1);
     
 }
 .services-container .box .box-img {
-    width: 100%;
-    height: 200px;
+    width: 1005;
+    
 
 }
 .services-container .box .box-img img{
