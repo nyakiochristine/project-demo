@@ -106,7 +106,7 @@ header{
 }
 .header-btn .sign-up{
     background: var(--main-color);
-    border-radius: 10px;
+    border-radius: 12px;
 
 
 }
