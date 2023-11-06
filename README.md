@@ -1,8 +1,8 @@
-# {Carrental}
+# {project-demo}
 
-## By Christine Mwangi
+## By Christine Mwangi && Edna Ngalasa
 
-### It is a description of my website application
+### It is a description of this website application
 
 ## Table of Content
 
@@ -16,14 +16,14 @@
 
 ## Description
 
-{This is a web application project for car renting.Users who want to rent cars can easily rent out cars from the site}
+{This is a web application project for students where they can access experiential learning opportunities}
 
 ## Setup/Installation
 
 ### Requirements
 
 + clone repository
-{<https://github.com/nyakiochristine/carrental>}
+{<https://github.com/nyakiochristine/project-demo>}
 *either a computer,phone,tablet or an Ipad
 *An access to the internet
 
@@ -38,13 +38,12 @@
 
 + CSS - which was used to style the landing page.
 
-Javascript 
-
+JavaScript
 ## License
 
 MIT License
 
-Copyright (c) [2022] [Christine Mwangi]
+Copyright (c) [2023] [Christine Mwangi]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
