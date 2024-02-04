@@ -30,7 +30,7 @@
 ### Installation Process
 
 [Go Back to the top]
-(#carrental)
+(#projectdemo)
 
 ## Technologies Used
 
@@ -67,4 +67,4 @@ SOFTWARE.
 
 Email address - (christine.mwangi@student.moringaschool.com)
 [go back to the top]
-(# CARRENTAL)
+(# PROJECT-DEMO)
